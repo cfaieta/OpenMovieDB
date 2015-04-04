@@ -6,112 +6,112 @@
         jumboMode="false"
         revision="21.1.2"
         sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/classes-fc1dcb8b24458e1a1672c267e7d742ef87b94705.jar" />
-    </item>
-    <item
-        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-0e04f61b0310ffd24182c3bcfa57640caf5069d7.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/classes-fc1dcb8b24458e1a1672c267e7d742ef87b94705.jar" />
     </item>
     <item
         jar="/home/cfaieta/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b12d2db03f8cf7cdb154989760ca5b753e341236.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-b12d2db03f8cf7cdb154989760ca5b753e341236.jar" />
     </item>
     <item
         jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-95ca567f5b5e25ea532d08955667bbff1484b549.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/universal-image-loader-1.9.3-95ca567f5b5e25ea532d08955667bbff1484b549.jar" />
     </item>
     <item
         jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.24.0/42dab493b8f74b164e082f281480c9d493ff89da/rxandroid-0.24.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="42dab493b8f74b164e082f281480c9d493ff89da">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/rxandroid-0.24.0-1b1aefd3724b032a8244540aa4775bfedda08e3a.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/rxandroid-0.24.0-1b1aefd3724b032a8244540aa4775bfedda08e3a.jar" />
     </item>
     <item
         jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.6/ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30/otto-1.3.6.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="ee373b6d0d6ea36a0a9b0cbabaf16be7e7fc3e30">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/otto-1.3.6-191fb4d37f396a8a0ea0b864497c998d15b2fa6b.jar" />
-    </item>
-    <item
-        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/gson-2.3.1-006d7cda0f0bcef2a7546b498c96a6437b48db3b.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/otto-1.3.6-191fb4d37f396a8a0ea0b864497c998d15b2fa6b.jar" />
     </item>
     <item
         jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.4/a607b0e12d2de769dc219e00b60a9b3d9e730d/rxjava-1.0.4.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="00a607b0e12d2de769dc219e00b60a9b3d9e730d">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/rxjava-1.0.4-9e4048c75ce742279781bb2507f511466bfa320e.jar" />
-    </item>
-    <item
-        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-cd3bec6e8a62dea7b0d0bfd328a7fc907540a05c.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/rxjava-1.0.4-9e4048c75ce742279781bb2507f511466bfa320e.jar" />
     </item>
     <item
         jar="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9d1caa92b8992205e7d39e35787195daae3e2c51.jar" />
-    </item>
-    <item
-        jar="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/classes-5d11a4b806da2cc118bec23f48b55e7ad5c07d0b.jar" />
-    </item>
-    <item
-        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a681c044244d9fc375198588297a39ba78028423">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-da24ac856990979d20de87686735faf3324f702e.jar" />
-    </item>
-    <item
-        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-d733d5c14e367020f372166486e63311d026cd86.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-9d1caa92b8992205e7d39e35787195daae3e2c51.jar" />
     </item>
     <item
         jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/okio-1.0.0-933a9be00b68e98a946c77ad233ff32cfbf09cfc.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/okio-1.0.0-933a9be00b68e98a946c77ad233ff32cfbf09cfc.jar" />
     </item>
     <item
         jar="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/classes-cba58cfaa951c71c5468147de4cc144bca51f8e5.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/classes-cba58cfaa951c71c5468147de4cc144bca51f8e5.jar" />
     </item>
     <item
         jar="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/debug/classes-8cc1f57d82e2f122eac307a6593afa4313ffafb9.jar" />
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/classes-8cc1f57d82e2f122eac307a6593afa4313ffafb9.jar" />
+    </item>
+    <item
+        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/butterknife-6.1.0-0e04f61b0310ffd24182c3bcfa57640caf5069d7.jar" />
+    </item>
+    <item
+        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/gson-2.3.1-006d7cda0f0bcef2a7546b498c96a6437b48db3b.jar" />
+    </item>
+    <item
+        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-2.0.0-cd3bec6e8a62dea7b0d0bfd328a7fc907540a05c.jar" />
+    </item>
+    <item
+        jar="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/classes-5d11a4b806da2cc118bec23f48b55e7ad5c07d0b.jar" />
+    </item>
+    <item
+        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/retrofit-1.9.0-da24ac856990979d20de87686735faf3324f702e.jar" />
+    </item>
+    <item
+        jar="/home/cfaieta/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/home/cfaieta/AndroidStudioProjects/OpenMovieDB/app/build/intermediates/pre-dexed/release/okhttp-2.0.0-d733d5c14e367020f372166486e63311d026cd86.jar" />
     </item>
 
 </items>

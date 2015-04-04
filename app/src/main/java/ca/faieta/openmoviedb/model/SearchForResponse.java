@@ -12,13 +12,19 @@ public class SearchForResponse {
     @SerializedName("Search")
     public List<SearchInfo> search;
 
+    @SerializedName("Response")
+    public String response;
+
+    @SerializedName("Error")
+    public String error;
+
     public class SearchInfo {
 
         @SerializedName("Title")
         public String title;
 
         @SerializedName("Year")
-        public int year;
+        public String year;
 
         @SerializedName("imdbID")
         public String imdbId;

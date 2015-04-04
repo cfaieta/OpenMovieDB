@@ -39,6 +39,9 @@ public class MovieActivity extends ActionBarActivity {
         if (Intent.ACTION_VIEW.equals(intent.getAction())) {
             String imdbId = intent.getStringExtra(SearchManager.EXTRA_DATA_KEY);
             getFullMovieDetails(imdbId);
+        } else if (Intent.ACTION_SEARCH.equals(intent.getAction())) {
+            String query = intent.getStringExtra(SearchManager.QUERY);
+            loadMovieSearchResults(query);
         }
     }
 
@@ -81,6 +84,17 @@ public class MovieActivity extends ActionBarActivity {
             getSupportFragmentManager().beginTransaction()
                     .replace(R.id.fragment_container, fragment)
                     .addToBackStack("details")
+                    .commit();
+        }
+    }
+
+    private void loadMovieSearchResults(String query) {
+        if (fragmentContainer != null) {
+            MovieSearchResultsFragment fragment = new MovieSearchResultsFragment();
+            fragment.setArguments(MovieSearchResultsFragment.createBundleForFragment(query));
+            getSupportFragmentManager().beginTransaction()
+                    .replace(R.id.fragment_container, fragment)
+                    .addToBackStack("movie_search_results")
                     .commit();
         }
     }

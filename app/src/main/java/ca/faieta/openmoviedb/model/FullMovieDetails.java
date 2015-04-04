@@ -13,7 +13,7 @@ public class FullMovieDetails implements Serializable {
     public String title;
 
     @SerializedName("Year")
-    public int year;
+    public String year;
 
     @SerializedName("Rated")
     public String rated;
@@ -65,4 +65,8 @@ public class FullMovieDetails implements Serializable {
 
     @SerializedName("Type")
     public String type;
+
+    public boolean isValidPosterUri() {
+        return !"N/A".equals(poster);
+    }
 }

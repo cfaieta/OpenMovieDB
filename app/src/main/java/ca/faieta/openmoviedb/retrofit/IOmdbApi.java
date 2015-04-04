@@ -12,7 +12,7 @@ import rx.Observable;
 public interface IOmdbApi {
 
     @GET("/?&type=movie&r=json")
-    public SearchForResponse searchMoviesFor(@Query("s") String searchFor);
+    public Observable<SearchForResponse> searchMoviesFor(@Query("s") String searchFor);
 
 
     @GET("/?y=&plot=full&r=json")
